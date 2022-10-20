@@ -1,8 +1,6 @@
 # Sites list - React App
 
-## Live Demo
-
-https://shiraamar.github.io/Test_exercise/
+## Demo
 
 <center><img src="public\Screenshot_1.png" /></center>
 
